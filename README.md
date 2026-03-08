@@ -45,3 +45,12 @@ QUOTE:
 "Fast is slow. Slow is fast." — Brad Pitt, F1
 COMMIT: docs: Day 3 - systemctl mastery, attack surface reduced
 
+Day 4: File permissions and ownership
+
+- Drilled chmod vs chown distinction
+- Memorized octal values: 777, 755, 644, 600, 400
+- Learned SUID bit and privilege escalation risk
+- Ran live vulnerability scan, identified pkexec CVE-2021-4034
+- Verified SSH key permissions: 600/700 correct
+- Weakness identified: scrambling under pressure
+""Notice that the stiffest tree is most easily cracked, while the bamboo survieves by bending with the wind" --Bruce Lee
